@@ -1,0 +1,17 @@
+{
+  "name": "graphic-frame",
+  "homepage": "https://github.com/ft-interactive/graphic-frame",
+  "authors": [
+    "Ændrew Rininsland <andrew.rininsland@ft.com>"
+  ],
+  "description": "A wrapper for static graphics that allows them to be downloaded in a number of sizes.",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
